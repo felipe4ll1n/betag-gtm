@@ -1,0 +1,5 @@
+homepage: "https://allin.com.br"
+documentation: "https://github.com/giep-br/betag-gtm"
+versions:
+  - sha: 9d18ad2a8f06ef9d8e64c884224c0484041dcdc8
+    changeNotes: Versão inicial
